@@ -24,8 +24,8 @@
 
 
 ### stats (because validation tastes delicious)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryanglrts&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryamglrts&show_icons=true)
 
 ### now playing / doing
 - league of legends
