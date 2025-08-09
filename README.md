@@ -23,9 +23,10 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-fff?logo=adobeillustrator)
 
 
-### stats (because validation tastes delicious)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryanglrts&layout=compact)
+### stats (i just locked in this year bro)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryanglrts&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryanglrts&layout=compact)
+
 
 ### now playing / doing
 - league of legends
